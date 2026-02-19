@@ -12,4 +12,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Demo
-(Add deployment link here)
+https://ai-paragraph-generator-lxgpfvxdkwns29jmnttzsx.streamlit.app/
+
